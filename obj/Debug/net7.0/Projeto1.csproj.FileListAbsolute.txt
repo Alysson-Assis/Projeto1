@@ -1,0 +1,15 @@
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/bin/Debug/net7.0/Projeto1
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/bin/Debug/net7.0/Projeto1.deps.json
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/bin/Debug/net7.0/Projeto1.runtimeconfig.json
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/bin/Debug/net7.0/Projeto1.dll
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/bin/Debug/net7.0/Projeto1.pdb
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/Projeto1.csproj.AssemblyReference.cache
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/Projeto1.AssemblyInfoInputs.cache
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/Projeto1.AssemblyInfo.cs
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/Projeto1.csproj.CoreCompileInputs.cache
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/Projeto1.dll
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/refint/Projeto1.dll
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/Projeto1.pdb
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/Projeto1.genruntimeconfig.cache
+/home/alyssonsantos/Documentos/Projeto/Polimorfismo/Projeto1/obj/Debug/net7.0/ref/Projeto1.dll
